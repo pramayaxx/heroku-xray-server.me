@@ -12,8 +12,6 @@ ____
 
 ⭕ ɢɪᴠᴇ ꜱᴛᴀʀ & ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ.
 
-- 🔺 ʜᴏᴡ ᴛᴏ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ 🔻.
-
 <p><a href="https://github.com/BadPramaya/heroku-xray-server"> /></a></p>
 
 ___
