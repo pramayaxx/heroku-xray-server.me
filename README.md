@@ -14,8 +14,7 @@ ____
 
 - 🔺 ʜᴏᴡ ᴛᴏ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ 🔻.
 
-<p><a href="https://github.com/BadPramaya/heroku-xray-server"> <img src="https://telegra.ph/file/96c2318cee74da32eb15a.jpg" /></a></p>
-Click on fork and star buttons like this image☝️.
+<p><a href="https://github.com/BadPramaya/heroku-xray-server"> /></a></p>
 
 ___
 - ⚠️ᴘʟᴢ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ⚠️.
