@@ -23,8 +23,7 @@ ___
 
 
 <p><a href="https://dashboard.heroku.com/new?template=https://github.com/BadPramaya/heroku-xray-server.me"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/yPLHdu?referralCode=DGTObb)
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/vYs0gJ)
 ⭕ ᴄʜᴏᴏꜱᴇ ᴛʜᴇ ʀᴇɢɪᴏɴ ᴛʜᴀᴛ ᴡᴏʀᴋꜱ ʙᴇꜱᴛ ꜰᴏʀ ʏᴏᴜ.
    - 🔺ʀᴇᴍᴇᴍʙᴇʀ,
    - 🔻ᴛʜᴇ ʀᴇɢɪᴏɴ ʏᴏᴜ ꜱᴇʟᴇᴄᴛᴇᴅ ɪꜱ ʏᴏᴜʀ ᴠ2ʀᴀʏ ᴀᴄᴄᴏᴜɴᴛ ꜱᴇᴠᴇʀ.
